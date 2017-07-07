@@ -4,3 +4,4 @@ add master
 =======
 add dev
 >>>>>>> dev
+Creating a new branch is quick & simple.
